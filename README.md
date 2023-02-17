@@ -1,4 +1,4 @@
-# EECS348_Lab3
+# Lab3 Outputs
 Program1 Output:
 Monthly sales report for 2022:
 Month      Sales
